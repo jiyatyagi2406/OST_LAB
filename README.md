@@ -1,2 +1,4 @@
-#readme file demo
-This IS my first change.
+# My First GitHub Project
+
+This is a sample project for learning Git & GitHub.
+
